@@ -1,0 +1,13 @@
+1 环境
+    安装虚拟环境
+        pip install virtualenv
+    启动虚拟环境
+        进入到 Script下，执行 activate
+
+    pip install flask
+    pip install flask-sqlalchemy
+    pip install pymysql
+    pip install pyjwt
+
+2 开发
+    1.1 使用蓝图，将试图分离出来
