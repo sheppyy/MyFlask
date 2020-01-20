@@ -20,5 +20,5 @@
 
 
 
-有啥问题可Issues或邮箱ydcdck@163.com
+有啥问题可Issues或邮箱ydcdck@163.com，技术菜，多多谅解~
 
